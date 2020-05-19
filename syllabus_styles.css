@@ -111,13 +111,17 @@ footer {
   header {
     position: fixed;
     top: 0;
-    margin: 0 5px 50px 5px;
+    max-width: 100%;
+    min-width: 100%;
+    box-sizing: border-box;
+    padding-right: 20px;    
     background: rgba(255, 255, 255, .85);
   }
   
   .header_logo {
     margin: 0;
-    width: 100%;
+    width: 60%;
+    padding: 0 20%;
   }
   
   .header_title_number {
