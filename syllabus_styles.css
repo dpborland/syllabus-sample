@@ -134,6 +134,18 @@ footer {
   .section_piece {
     width: 95%;
   }
+	
+  .section_piece_title_link {
+    font-size: 2.2em;	  
+  }
+	
+  .section_piece_author_source {
+    font-size: 1.6em;	  
+  }
+	
+  .section_piece_blockquote {
+    font-size: 1.7em;	  
+  }
 }
 
 @media (max-width: 800px) {
