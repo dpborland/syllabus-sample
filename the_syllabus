@@ -1,0 +1,288 @@
+<!DOCTYPE HTML>
+<html lang="eng">
+<head>
+  	<meta charset="utf-8">
+
+  	<title>The Syllabus</title>
+
+  	<meta name="description" content="The Syllabus">
+  	<meta name="author" content="The-Syllabus">
+
+  	<!--<link rel="stylesheet" href="css/syllabus_styles.css?v=1.0">-->
+	<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+	<header id="header" class="">
+		<img class="header_logo" src="" alt="The Syllabus Logo">
+		<div class="header_title_number">The Progressive #32</div>
+		<div class="header_date">May 9 - May 16, 2020</div>
+	</header>
+
+	<h1 class="section_classification">
+		ACADEMIC
+	</h1>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link"> Explaining Italian "Exceptionalism" and Its End: Minimum Income From Neglect To Hyper‐Politicization
+			</a>
+			<h2 class="section_piece_author_source">Matteo Jessoula, Marcello Natili | Social Policy & Administration 
+			</h2>
+			<blockquote class="section_piece_blockquote"> "Traditionally at the margins of the political debate, minimum income protection has recently become a
+			key issue in Italian politics...socio‐political demand and political supply [can] explain the scope and
+			direction of minimum income reforms...leading to the introduction and institutionalization of a MIS."
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Common Knowledge? Business Intellectuals, Bric and the Production of Knowledge
+			Across Global Finance and International Relations 
+			</a>
+			<h2 class="section_piece_author_source">Stephen Aris, Aglaya Snetkov | Journal of International Relations and Development
+			</h2>
+			<blockquote class="section_piece_blockquote">"...the science and technology studies' concept of boundary objects is invaluable in accounting for both
+			how IR's 'constitutive' theorising is influenced by other circuits of practice and the co-constituted nature
+			of 'the international' as an object of investigation...the functionality of BRIC as a boundary object served
+			to provide business intellectuals with constitutive influence on how IR knows its object of study." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link"> Leviathan As an Inventor: an Extended Agency Model of State-Owned Versus
+			Private Firm Invention in Emerging and Developed Economies
+			</a>
+			<h2 class="section_piece_author_source">Sergio G. Lazzarini, Luiz F. Mesquita, Felipe Monteiro, Aldo Musacchio | Journal of International Business
+			Studies 
+			</h2>
+			<blockquote class="section_piece_blockquote">"...from a traditional agency-theoretical standpoint, SOEs are plagued by low-powered incentives and
+			dysfunctional involvement (e.g., wasteful budgets and political meddling), which reduces SOE
+			performance...[However,] an extended agency model...entertains a more balanced view, in which these socalled
+			agency liabilities in fact benefit SOEs...in some types of inventive output. ." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Cybernetics for the Command Economy: Foregrounding Entropy in Late Soviet
+			Planning 
+			</a>
+			<h2 class="section_piece_author_source"> Diana K. West | History of the Human Sciences
+			</h2>
+			<blockquote class="section_piece_blockquote">"Removed from Moscow bureaucracy and politics, the various planning institutes of the Siberian Academy
+			of Sciences...put forth a vision of a dynamic Soviet economy managed through partially automated
+			subsystems, which, while decentralized, would grant the central planning apparatus flexibility, a capacity
+			for emergence, and overall solvency in the face of increasingly complex factors that required
+			consideration." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">New Liberalism and the City of London: Reassessing Empire, Finance, and Politics in
+			Francis Hirst's Economist, 1906–16 
+			</a>
+			<h2 class="section_piece_author_source">Alexander Zevin | Twentieth Century British History 
+			</h2>
+			<blockquote class="section_piece_blockquote">"[Francis Hirst's] tenure at The Economist-including his ejection in 1916 for supporting a negotiated
+			peace during the First World War-...[reveals how] finance and politics were deeply intertwined in liberal
+			understandings of free trade, empire, and social reform by the turn of the twentieth century...conflicts
+			that emerged at this time, over the interests of the City [of London]...prefigured later, better-known
+			clashes that have recurred in Britain down to the present." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Piero Sraffa's St. Simonian Temptations. An Examination of the Sraffa Papers 
+			</a>
+			<h2 class="section_piece_author_source">Michel Bellet, Adrien Lutz | The European Journal of the History of Economic Thought 
+			</h2>
+			<blockquote class="section_piece_blockquote">"Why did Piero Sraffa (1898-1983), one of the most important economists of the 20th century, undertake
+			such a significant-albeit never published-study of the St. Simonian texts?...In view of the particular
+			characteristics of these unpublished works, the paper makes some interpretative proposals." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Workplace Biometrics: Protecting Employee Privacy One Fingerprint At a Time 
+			</a>
+			<h2 class="section_piece_author_source">Peter Holland, Tse L. Tham | Economic and Industrial Democracy 
+			</h2>
+			<blockquote class="section_piece_blockquote">"[In a] major case study in Australia, a decision to terminate employment on the grounds of non-consent
+			for biometric data to be collected was overturned through the legislative system...[highlighting] the
+			increased impetus to collect such data...[and] the need [for employers] to understand employees' rights
+			and their own obligations around the informational privacy of employees." 
+			</blockquote>
+		</section>
+
+	<h1 class="section_classification">
+		BOOKS
+	</h1>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">The Price of Peace: Money, Democracy, and the Life of John Maynard Keynes 
+			</a>
+			<h2 class="section_piece_author_source">Zachary D. Carter | Penguin Random House 
+			</h2>
+			<blockquote class="section_piece_blockquote">"Keynes was not only an economist but the preeminent anti authoritarian thinker of the twentieth
+			century, one who devoted his life to the belief that art and ideas could conquer war and deprivation." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Trade Wars Are Class Wars: How Rising Inequality Distorts the Global Economy and
+			Threatens International Peace 
+			</a>
+			<h2 class="section_piece_author_source">Matthew C. Klein, Michael Pettis | Yale University Press 
+			</h2>
+			<blockquote class="section_piece_blockquote">"This book traces the origins of today's trade wars to decisions made by politicians and business leaders in
+			China, Europe, and the United States over the past thirty years." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Brazil's Revolution in Commerce: Creating Consumer Capitalism in the American
+			Century 
+			</a>
+			<h2 class="section_piece_author_source">James P. Woodard | University of North Carolina Press 
+			</h2>
+			<blockquote class="section_piece_blockquote">"This book tells how a new economic outlook took hold over the course of the twentieth century, a time
+			when the United States became Brazil's most important trading partner and the tastemaker of its betterheeled
+			citizens." 
+			</blockquote>
+		</section>
+
+	<h1 class="section_classification">
+		JOURNALISM & ESSAYS
+	</h1>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">The Post-Neoliberal World Is Already Here 
+			</a>
+			<h2 class="section_piece_author_source">Felicia Wong | Democracy: A Journal of Ideas 
+			</h2>
+			<blockquote class="section_piece_blockquote">"One way or another, we will come out the other side of the COVID-19 pandemic into a new world. The
+			question is which one." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Can the History of Economics Inspire a Pluralistic Approach To Economics? 
+			</a>
+			<h2 class="section_piece_author_source">Raghunath Nageswaran | Developing Economics 
+			</h2>
+			<blockquote class="section_piece_blockquote">"The provocative title of the book is a scathing indictment of the economics profession that, for a very
+			long time, did not bother to enquire into the unrecognised but massive contribution of women in socioeconomic
+			reproduction and when it finally did, employed economic tools to justify gender discrimination
+			in the name of 'market rationality'." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Banks As Debt Monetizers: Monetary Policy 101 
+			</a>
+			<h2 class="section_piece_author_source">Nathan Tankus | Notes on the Crisis 
+			</h2>
+			<blockquote class="section_piece_blockquote">"The only thing worse than being a dispersed, bilateral set of debt relationships between individuals is to
+			be stuck in those sets of social relationships on the margins of society." 
+			</blockquote>
+		</section>
+
+	<h1 class="section_classification">
+		REPORTS, DISSERTATIONS, & MISCELLANEOUS
+	</h1>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">From Finance To Fascism 
+			</a>
+			<h2 class="section_piece_author_source">Sebastian Doerr | Bank for International Settlements 
+			</h2>
+			<blockquote class="section_piece_blockquote">"Danatbank's collapse boosted Nazi support, especially in cities with deep-seated anti-Semitism,
+			suggesting a synergy between cultural and economic channels." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Profits, Innovation and Financialization in the Insulin Industry 
+			</a>
+			<h2 class="section_piece_author_source">Rosie Collington | Institute for New Economic Thinking 
+			</h2>
+			<blockquote class="section_piece_blockquote">"This paper considers the relationship between profits realized from higher insulin list prices,
+			pharmaceutical innovation, and the financial structures of the three dominant insulin manufacturing
+			companies, which set list prices." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Revolving Doors in International Financial Governance 
+			</a>
+			<h2 class="section_piece_author_source">Leonard Seabrooke, Eleni Tsingou | Global Networks 
+			</h2>
+			<blockquote class="section_piece_blockquote">"This dcocument finds that revolving doors are important in establishing intellectual capture in how an
+			issue is treated within transnational policy networks." 
+			</blockquote>
+		</section>
+
+	<h1 class="section_classification">
+		VIDEOS
+	</h1>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">The Future of Globalization After the Covid Crisis 
+			</a>
+			<h2 class="section_piece_author_source">Dani Rodrik | Princeton School of Economics 
+			</h2>
+			<blockquote class="section_piece_blockquote">"A retreat from hyper-globalization is not necessarily bad if we are able to construct a more sensible
+			globalization. ." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Globalisation and the Pandemic 
+			</a>
+			<h2 class="section_piece_author_source">Prabhat Patnaik | Society for Social and Economic Research 
+			</h2>
+			<blockquote class="section_piece_blockquote">"The deleterious effects of the financial hegemony pushing the state towards its preferred direction have
+			been obvious for a long time, but the Covid-19 crisis has brought this to a head." 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Covid-19, the Macroeconomy & Monetary Policy 
+			</a>
+			<h2 class="section_piece_author_source">William C. Dudley | UCLA Anderson School of Management 
+			</h2>
+			<blockquote class="section_piece_blockquote">"The virus has created an almost complete stop to discretionary economic activity, and a sharp rise in
+			unemployment. But, unlike previous crises, the policy responses appear to have arrived much more
+			quickly." 
+			</blockquote>
+		</section>
+
+	<h1 class="section_classification">
+		PODCASTS
+	</h1>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">The History of Capitalism and Democracy 
+			</a>
+			<h2 class="section_piece_author_source">Louis Hyman | Present Value Podcast 
+			</h2>
+			<blockquote class="section_piece_blockquote">"Is the rise of gig economy a consequence of income volatility? How can businesses and the federal
+			government support gig economy workers? And what is the history of personal debt in the United States?" 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">Coronavirus and the Legacy of Austerity 
+			</a>
+			<h2 class="section_piece_author_source">Frank van Lerven | Weekly Economics Podcast 
+			</h2>
+			<blockquote class="section_piece_blockquote">"Supporters of austerity claim the last decade of cuts is what enabled the government to put money into
+			these schemes now. But is this true?" 
+			</blockquote>
+		</section>
+		<section class="section_piece">
+			<a href="" class="section_piece_title_link">On the Rise of Coerced Labor 
+			</a>
+			<h2 class="section_piece_author_source">Erin Hatton | This Is Hell! 
+			</h2>
+			<blockquote class="section_piece_blockquote">"A debate on the rise of coerced labor in the United States, where prison labour is an explicit exception to
+			the abolition of slavery. In what way is the coerced labour a microcosm of the broader problems of mass
+			incarceration in the US?" 
+			</blockquote>
+		</section>
+
+	<footer>
+		<p class="footer_links">You can 
+			<a href="https://the-syllabus.com/forms/update_preferences/">
+				update your preferences
+			</a>
+				or 
+			<a href="https://the-syllabus.com/unsubscribe/">
+				unsubscribe from this list.
+			</a>
+		</p>
+
+		<p class="footer_copyright">
+			Copyright © 2020 The Syllabus, All rights reserved.
+		</p>
+	</footer>
+</body>
+</html>

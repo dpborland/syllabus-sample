@@ -1,0 +1,162 @@
+body {
+	display: flex;
+  flex-direction: column; 
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+	font-family: Lato;
+  font-weight: 700;
+  justify-content: space-between;
+  margin-bottom: 3px;
+}
+
+.header_logo {
+  width: 50%;
+  margin: 2% 25%; 
+  align-self: center;
+}
+
+.header_title_number {
+  width: 48%;
+  font-size: .9em;
+}
+
+.header_date {
+  width: 48%;
+  font-size: .9em;
+  text-align: right;
+}
+
+hr {
+  color: black;
+  width: 100%;
+  margin: 5px 0 0 0;
+}
+
+hr:first-of-type {
+  margin-top: 5px;
+}
+
+.section_classification {
+	font-family: Open Sans;
+	font-weight: 600;
+	font-size: 1.4em;
+	color: black;
+  width: 100%;
+  margin: 0 0 10px 0;
+}
+
+.section_piece {
+  width: 90%;
+  margin: 0 0 18px 0;
+  align-self: center;
+}
+
+.section_piece_title_link {
+	font-family: Lato;
+  font-weight: 700;
+	font-size: 1.075em;
+	color: #0a5499;
+  text-decoration: none;
+
+}
+
+.section_piece_author_source {
+	font-family: Lato;
+  font-weight: 400;
+  font-size: .8em;
+  color: #858585;
+  margin: 4px 0 4px 0;
+}
+
+.section_piece_blockquote {
+	font-family: Lato;
+  font-size: .9em;
+  margin: 0;
+}
+
+footer {
+  flex-direction: column;
+  align-self: center;
+	font-family: Lato;
+  font-size: .75em;
+  margin: 5px 0 5px 0;
+}
+
+.footer_content {
+}
+
+.footer_links {
+}
+
+.footer_links a {
+  text-decoration: none;
+  color: #0a5499;
+  font-weight: 700;
+}
+
+.footer_copyright {
+  text-align: center;
+}
+
+@media (max-width: 350px) {
+  body {
+    margin: 10px;
+  }
+  
+  header {
+    position: fixed;
+    top: 0;
+    margin: 5px 5px 50px 5px;
+    background: rgba(255, 255, 255, .85);
+  }
+  
+  .header_logo {
+    margin: 0;
+    width: 100%;
+  }
+  
+  .header_title_number {
+    margin-bottom: 10px;
+   }
+  
+  .header_date {
+    margin-bottom: 10px;
+  }
+  
+  hr:first-of-type {
+    margin-top: 100px;
+  }
+  
+  .section_piece {
+    width: 95%;
+  }
+}
+
+@media (max-width: 500px) {
+  .section_piece {
+    width: 97%;
+  }
+}
+
+@media (min-width: 750px) {
+  body {
+    margin: 0 15%;
+  }
+}
+
+@media (min-width: 900px) {
+  body {
+    margin: 0 20%;
+  }
+
+}
+
+@media (min-width: 1280px) {
+  body {
+    margin: 0 25%;
+  }
+}
